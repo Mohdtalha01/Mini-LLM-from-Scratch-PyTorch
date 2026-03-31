@@ -249,14 +249,11 @@ Please ensure:
 - Changes are well-documented
 - Tests pass before submitting PR
 
-## 📜 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 👨‍💻 Author
 
 **Mohd Talha**
-- M.Tech in Artificial Intelligence & Machine Learning
+- M.Tech in CSE
 - Batch Topper
 
 ## ⭐ Acknowledgements
@@ -265,14 +262,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Dataset: Tiny Shakespeare (courtesy of Andrej Karpathy)
 - Built with PyTorch community resources
 - Special thanks to the open-source ML community
-
-## 📞 Support
-
-For questions, issues, or suggestions:
-- Open an [Issue](https://github.com/Mohdtalha01/Mini-LLM-from-Scratch-PyTorch/issues)
-- Check existing [Discussions](https://github.com/Mohdtalha01/Mini-LLM-from-Scratch-PyTorch/discussions)
-- Reach out via email
-
 ---
 
 **Last Updated:** 2026-03-31 19:26:49
